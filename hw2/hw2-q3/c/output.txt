@@ -1,0 +1,16 @@
+python hw2-q3.py test --checkpoint_name attn.pt --topp 0.8 --use_attn
+Loading data...
+Testing...
+Test CER: 0.2850, Test WER: 0.8380
+Printing first 10 examples with multiple predictions:
+('remainder', {'ramainder', 'romaender', 'romainder'})
+('misperception', {'misperception', 'misperseption'})
+('crudités', {'crudite', 'crudita'})
+('Jingchuan', {'jinnuhu', 'ginguon', 'ginghwah'})
+('scare', {'skar', 'scaer', 'scar'})
+('glossal', {'glossel', 'glossal'})
+('touchedness', {'tuchidnis', 'tuctideness', 'tuccidness'})
+('alkaloses', {'alcalosis', 'alcalocias', 'alcolosis'})
+('companions', {'companyens', 'companiens', 'companeans'})
+('slaggy', {'slagy', 'slagge', 'slagey'})
+Test WER@3: 0.7460

@@ -1,0 +1,76 @@
+python3 hw2-q3.py train --checkpoint_name no-attn.pt
+python3 hw2-q3.py test --checkpoint_name no-attn.pt
+Loading data...
+Training...
+Epoch: [1/20], Loss: 1.9933
+Validation error rate: 0.5803
+New best error rate found: 0.5803
+Saving model
+Epoch: [2/20], Loss: 1.7977
+Validation error rate: 0.4817
+New best error rate found: 0.4817
+Saving model
+Epoch: [3/20], Loss: 1.3601
+Validation error rate: 0.4526
+New best error rate found: 0.4526
+Saving model
+Epoch: [4/20], Loss: 1.2519
+Validation error rate: 0.4245
+New best error rate found: 0.4245
+Saving model
+Epoch: [5/20], Loss: 1.2238
+Validation error rate: 0.4013
+New best error rate found: 0.4013
+Saving model
+Epoch: [6/20], Loss: 1.1318
+Validation error rate: 0.3751
+New best error rate found: 0.3751
+Saving model
+Epoch: [7/20], Loss: 1.1250
+Validation error rate: 0.3892
+Epoch: [8/20], Loss: 0.9942
+Validation error rate: 0.3564
+New best error rate found: 0.3564
+Saving model
+Epoch: [9/20], Loss: 1.0100
+Validation error rate: 0.3476
+New best error rate found: 0.3476
+Saving model
+Epoch: [10/20], Loss: 1.0146
+Validation error rate: 0.3474
+New best error rate found: 0.3474
+Saving model
+Epoch: [11/20], Loss: 0.9578
+Validation error rate: 0.3380
+New best error rate found: 0.3380
+Saving model
+Epoch: [12/20], Loss: 1.1057
+Validation error rate: 0.3446
+Epoch: [13/20], Loss: 0.7632
+Validation error rate: 0.3256
+New best error rate found: 0.3256
+Saving model
+Epoch: [14/20], Loss: 0.7894
+Validation error rate: 0.3312
+Epoch: [15/20], Loss: 0.4915
+Validation error rate: 0.3222
+New best error rate found: 0.3222
+Saving model
+Epoch: [16/20], Loss: 0.6127
+Validation error rate: 0.3256
+Epoch: [17/20], Loss: 0.8360
+Validation error rate: 0.3220
+New best error rate found: 0.3220
+Saving model
+Epoch: [18/20], Loss: 0.9115
+Validation error rate: 0.3211
+New best error rate found: 0.3211
+Saving model
+Epoch: [19/20], Loss: 0.8492
+Validation error rate: 0.3218
+Epoch: [20/20], Loss: 0.8730
+Validation error rate: 0.3216
+Best validation error rate: 0.3211
+Loading data...
+Testing...
+Test CER: 0.3168, Test WER: 0.8170

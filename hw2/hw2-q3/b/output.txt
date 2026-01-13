@@ -1,0 +1,80 @@
+Loading data...
+Training...
+Epoch: [1/20], Loss: 2.3872
+Validation error rate: 3.6794
+New best error rate found: 3.6794
+Saving model
+Epoch: [2/20], Loss: 1.3340
+Validation error rate: 1.7441
+New best error rate found: 1.7441
+Saving model
+Epoch: [3/20], Loss: 1.4067
+Validation error rate: 1.2797
+New best error rate found: 1.2797
+Saving model
+Epoch: [4/20], Loss: 1.0662
+Validation error rate: 0.9025
+New best error rate found: 0.9025
+Saving model
+Epoch: [5/20], Loss: 1.1050
+Validation error rate: 0.7376
+New best error rate found: 0.7376
+Saving model
+Epoch: [6/20], Loss: 0.9201
+Validation error rate: 0.6500
+New best error rate found: 0.6500
+Saving model
+Epoch: [7/20], Loss: 0.9052
+Validation error rate: 0.5911
+New best error rate found: 0.5911
+Saving model
+Epoch: [8/20], Loss: 0.8301
+Validation error rate: 0.4901
+New best error rate found: 0.4901
+Saving model
+Epoch: [9/20], Loss: 0.9766
+Validation error rate: 0.4922
+Epoch: [10/20], Loss: 1.0749
+Validation error rate: 0.4697
+New best error rate found: 0.4697
+Saving model
+Epoch: [11/20], Loss: 0.8971
+Validation error rate: 0.4293
+New best error rate found: 0.4293
+Saving model
+Epoch: [12/20], Loss: 1.0184
+Validation error rate: 0.3598
+New best error rate found: 0.3598
+Saving model
+Epoch: [13/20], Loss: 0.8158
+Validation error rate: 0.3440
+New best error rate found: 0.3440
+Saving model
+Epoch: [14/20], Loss: 0.6861
+Validation error rate: 0.3067
+New best error rate found: 0.3067
+Saving model
+Epoch: [15/20], Loss: 0.9667
+Validation error rate: 0.2983
+New best error rate found: 0.2983
+Saving model
+Epoch: [16/20], Loss: 0.9862
+Validation error rate: 0.2978
+New best error rate found: 0.2978
+Saving model
+Epoch: [17/20], Loss: 0.8428
+Validation error rate: 0.2816
+New best error rate found: 0.2816
+Saving model
+Epoch: [18/20], Loss: 0.7891
+Validation error rate: 0.2933
+Epoch: [19/20], Loss: 0.7535
+Validation error rate: 0.2813
+New best error rate found: 0.2813
+Saving model
+Epoch: [20/20], Loss: 0.7727
+Validation error rate: 0.3018
+Best validation error rate: 0.2813
+Loading data...
+Testing...
+Test CER: 0.2585, Test WER: 0.7850
